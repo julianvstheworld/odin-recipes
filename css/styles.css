@@ -3,7 +3,7 @@ body {
     margin-right: 15%;
     background-color: beige
 }
-.chana, .jambalaya {
+.food-image {
     display: inline-block;
     margin-left: 60%;
 }
@@ -38,4 +38,7 @@ figcaption {
 .about-description {
     margin-top: 10%;
     text-align: center;
+}
+li {
+    margin: 5px 0;
 }

@@ -36,9 +36,17 @@ figcaption {
     text-align: justify;
 }
 .about-description {
-    margin-top: 10%;
+    margin-top: 5%;
     text-align: center;
 }
 li {
     margin: 5px 0;
+}
+div.recipes-home {
+    text-align: center;
+    margin-top: 5%;
+}
+ul.recipes-list {
+    display: inline-block;
+    text-align: left;
 }
